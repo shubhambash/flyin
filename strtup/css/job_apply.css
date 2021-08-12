@@ -1,0 +1,29 @@
+*, ::before, ::after{
+    box-sizing: border-box;
+}
+
+
+.details_view{
+    border: 1px solid #EEE;
+    border-radius: 6px;
+    padding: 24px 24px 0;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+#companyQuestions{
+
+
+    height: 200px;;
+    width: 100%;
+    resize: none;
+}
+
+
+.applyButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
